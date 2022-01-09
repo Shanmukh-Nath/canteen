@@ -1,0 +1,8 @@
+{
+  "name": "canteen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "589c6d74"
+}
